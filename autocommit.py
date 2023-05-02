@@ -3,10 +3,10 @@ import os
 import random
 
 # 设置起始日期和结束日期
-start_date = datetime.date(2022, 8, 1)
-end_date = datetime.date(2023, 5, 1)
+start_date = datetime.date(2023, 5, 2)
+end_date = datetime.date(2023, 9, 21)
 
-commit_lists=[0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,3,8,10]
+commit_lists=[0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,3,8,10]
 
 # 循环遍历日期范围
 current_date = start_date
